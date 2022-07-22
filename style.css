@@ -1,0 +1,35 @@
+h4 {
+    color: black;
+    text-align: center;
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.test_image_and_result
+{
+    background-color:blue;
+
+}
+
+.first,.second
+{
+    background-color:white ;
+    border-radius: 10px;
+    line-height: 2;
+}
+
+.test_image_and_result, .test_image_and_result1, .test_image_and_result2
+{
+    margin-top: 15px;
+    background-color: rgb(124,150,140);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px rgb(164, 158, 158);
+    width: 99%;
+    margin: 15px;
+}
+
+img
+{
+    width: 30%;
+}
+
